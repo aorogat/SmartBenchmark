@@ -32,9 +32,11 @@ In recent years, a significant number of question answering (QA) systems that re
   * Getting Started
   * [Lexicon Generation](https://github.com/ToDo)
   * [Benchmark Generation](https://github.com/ToDo)
-    * [QA Online Evaluation by http requests](https://github.com/ToDo)
-    * [QA Offline Evaluation by a benchmark file](https://github.com/ToDo)
-    * [QA Evaluation by your own method](https://github.com/ToDo)
+    * [DBpedia](https://github.com/ToDo)
+    * [Wikidata](https://github.com/ToDo)
+    * [GeoLinkedData](https://github.com/ToDo)
+    * [MAKG](https://github.com/ToDo)
+    * [Nobel Prize](https://github.com/ToDo)
   * [Benchmark Fine-Grained Analysis](https://github.com/ToDo)
   * [QA Evaluatioe](https://github.com/ToDo)
 
