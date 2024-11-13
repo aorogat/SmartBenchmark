@@ -12,16 +12,16 @@ In recent years, a significant number of question answering (QA) systems that re
 * __Richness:__ Generated questions vary in word choice (lexicon) and morphology and syntax (grammar) to evaluate the system’s ability to understand the same question written in different ways.
 * __Coverability:__ We defined the question complexity to use it in tuning SmartBench to cover all possible complexities in real-world deployment. 
 
-*Paper*: [ToPublish](https://)
+*Paper*: SmartBench: demonstrating automatic generation of comprehensive benchmarks for question answering over knowledge graphs
 #### Citation 
 ```
-@Article{Orogat2022SmartBench,
-  Title                    = {},
-  Author                   = {},
-  Journal                  = {},
-  Year                     = {},
-  volume                   = {},
-  number                    = {}
+@article{orogat_SmartBench,
+author = {Orogat, Abdelghny and El-Roby, Ahmed},
+title = {SmartBench: demonstrating automatic generation of comprehensive benchmarks for question answering over knowledge graphs},
+year = {2022},
+volume = {15},
+number = {12},
+journal = {Proc. VLDB Endow.}
 }
 ```
 
